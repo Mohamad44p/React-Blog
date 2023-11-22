@@ -3,7 +3,7 @@ import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import Navbar from './Navbar';
 import Home from './Home';
-import Create from './create';
+import Create from './Create';
 import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
 
